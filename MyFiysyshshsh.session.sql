@@ -1,0 +1,4 @@
+DROP DATABASE Kufar;
+CREATE DATABASE Kufar;
+USE Kufar;
+CREATE TABLE subjkuf(numb  INT, namee VARCHAR(250), price VARCHAR(50));
